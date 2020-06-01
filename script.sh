@@ -1,5 +1,5 @@
 #!/bin/sh
-git clone https://github.com/ParveenBhadooOfficial/python-aria-mirror-bot-heroku &&
+git clone https://github.com/begulatuk/python-aria-mirror-bot-heroku &&
 cd python-aria-mirror-bot-heroku
 sudo apt-get -y update && sudo apt-get -y upgrade &&
 sudo apt -y update && sudo apt -y upgrade &&
