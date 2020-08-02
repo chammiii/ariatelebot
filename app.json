@@ -60,10 +60,6 @@
       "value": "",
       "required": false
     },
-    "SECRET_JSON": {
-      "description": "Get it by running python3 generate_drive_token.py",
-      "value": ""
-    },
     "INDEX_URL": {
       "description": "(Optional field) Refer to https://github.com/maple3142/GDIndex/ The URL should not have any trailing '/'",
       "value": "",
